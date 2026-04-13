@@ -34,12 +34,6 @@ The solution combines **data engineering, analytics, and machine learning** in a
 
 ---
 
-## 🔗 Related Repositories
-- **dbt Models:** [Hospital_Readmission_dbt](https://github.com/srilekhatv/Hospital_Readmission_dbt)  
-- **Airflow Orchestration:** [Hospital_Readmission_AirflowOrchestration](https://github.com/srilekhatv/Hospital_Readmission_AirflowOrchestration)  
-
----
-
 ## 🗄️ Snowflake Setup (Screenshots)
 
 **Database & Schemas**
